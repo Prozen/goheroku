@@ -1,0 +1,4 @@
+{
+  "name": "Gurka",
+  "image": "heroku/go:1.7"
+}
